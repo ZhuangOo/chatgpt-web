@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'Zhuang',
-      description: 'Hello <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" ></a>',
+      
     },
   }
 }
