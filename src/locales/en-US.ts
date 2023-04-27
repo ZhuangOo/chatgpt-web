@@ -74,7 +74,7 @@ export default {
     monthlyUsage: 'Monthly Usage',
   },
   store: {
-    siderButton: '搜索记录',
+    siderButton: '输入记录',
     local: 'Local',
     online: 'Online',
     title: 'Title',
